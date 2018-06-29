@@ -17,7 +17,10 @@ Data set for this Application can be downloaded from as Gzip-compressed tarball 
                           decompress the data set
                         
     * For Windows: Extract the files from download folder, using a archiver(Like 7Zip)
-    
+
+*NOTE: The path of the folder where the data is extracted, needs to be specified against the **basepath** variable in the 
+       **sentimentAnalysis.ipynb** file*
+
 ### File Description
 
     * sentimentAnalysis.ipynb: This file contains all the necessary code for Data Pre-processing steps(used later) and 
